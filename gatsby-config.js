@@ -2,5 +2,5 @@ module.exports = {
   siteMetadata: {
     title: "gatsby-template",
   },
-  plugins: [],
+  plugins: ['gatsby-plugin-postcss'],
 };
